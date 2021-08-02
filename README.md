@@ -21,12 +21,12 @@ ASSEMBLY
 
 |S.No.| Component Name | Specification |Quantity(Nos.)|
 |----|----|----|----|       
-1.      Gyroscope sensor   MPU6050          1
-2.      Arduino            UNO              1
-3.      Battery            9V               1
-4.      Bluetooth module   HC-05            1
-5.      Jumper wires       Male-Female      10
-6.      Hand glove         Gym glove        1
+|1.    |  Gyroscope sensor|   MPU6050  |        1|
+|2.      |Arduino          |  UNO     |         1|
+|3.   |   Battery|            |9V |              |1|
+|4.|     | Bluetooth module|   |HC-05  |        |  1|
+|5. |     |Jumper wires|       |Male-Female|     | 10
+|6.|     |Hand glove|         |Gym glove|        |1|
 
 (* nano\ lilypad-can also be used)
 
@@ -34,26 +34,26 @@ MPU 6050:
 .
 |MPU-6050 Pin|  Arduino Pin |(Connected in)|
 |-----|-----|-----|
-VCC           5V
-GND           GND
-SCL           A5
-SDA           A4
-XDA           -
-XCL           - 
-ADD           -
-INT           2
+|VCC|           5V|
+|GND|           GND|
+|SCL|          A5|
+|SDA|           A4|
+|XDA|           -|
+|XCL |         - |
+|ADD|           -|
+|INT|           2|
 
 
 Bluetooth(HC-05):
 
 |HC-05 Pin  |Arduino Pin(Connected in)|
 |---|---|
-VIN        5V
-GND        GND
-TXD        10
-RXD        11
-STATE      -
-EN         -  
+|VIN |       5V|
+|GND |       GND|
+|TXD|        10|
+|RXD |       11|
+|STATE|      -|
+|EN |        -  |
 
 Arduino UNO:
               Arduino is used for connecting the above Bluetooth module , 9V battery and MPU-6050 by using jumper cables.
@@ -70,32 +70,34 @@ Fig . 3 transmitter part with wirings
 
 |S.No.| Component Name |          | Specification       | Quantity(Nos.)|
 |---|---|---|---|
-1.    Motor driver.             L298N                1
-2.    Bluetooth module          HC-05                1
-3.    Two wheel with DC motor.  RC WHEELS            1
-4.    Arduino                   Uno                  1
-5.    Jumper wires              Male-Female          10
-6.    Chasis                    Made of cardboard    1
-7.    Battery                   9V                   2
+|1.|    Motor driver.|             L298N  |              1|
+|2.    |Bluetooth module|          HC-05  |              1|
+|3. |   Two wheel with DC motor.|  RC WHEELS  |          1|
+|4. |   Arduino |                  Uno|                  1|
+|5. |   Jumper wires |             Male-Female |         10|
+|6.|    Chasis |                   Made of cardboard |   1|
+|7. |  Battery|                   9V |                  2|
 
 
 
 Bluetooth(HC-05):
 
-HC-05 Pin  Arduino Pin(Connected in)
-VIN        5V
-GND        GND
-TXD        10
-RXD        11
-STATE      -
-EN         - 
+|HC-05 Pin| Arduino Pin(Connected in)|
+|---|---|
+|VIN|        5V|
+|GND |       GND|
+|TXD |       10|
+|RXD |       11|
+|STATE |     -|
+|EN |        - |
 
 Motor drive (L298N):
 
-L298N Pin  Connected in
-2 OUTPUTS  RC wheels with DC motor
-GND        GND
-+9V / +5V  VIN
+|L298N Pin|  Connected in|
+|---|---|
+|2 OUTPUTS|  RC wheels with DC motor|
+|GND  |      GND|
+|+9V / +5V|  VIN|
 
 Arduino : 
         Arduino is used for connecting the above Bluetooth module , 9V battery , motor drive by using jumper cables.
