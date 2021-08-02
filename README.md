@@ -21,12 +21,12 @@ ASSEMBLY
 
 |S.No.| Component Name | Specification |Quantity(Nos.)|
 |----|----|----|----|       
-|1.    |  Gyroscope sensor|   MPU6050  |        1|
-|2.      |Arduino          |  UNO     |         1|
-|3.   |   Battery|            |9V |              |1|
-|4.|     | Bluetooth module|   |HC-05  |        |  1|
-|5. |     |Jumper wires|       |Male-Female|     | 10
-|6.|     |Hand glove|         |Gym glove|        |1|
+|1.|  Gyroscope sensor|   MPU6050  |        1|
+|2.|  Arduino   |         UNO     |        1|
+|3.|   Battery|            9V |              1|
+|4.|   Bluetooth module|   HC-05  |          1|
+|5.|     Jumper wires|       Male-Female|      10|
+|6.|     Hand glove|         Gym glove|        1|
 
 (* nano\ lilypad-can also be used)
 
