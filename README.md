@@ -32,7 +32,8 @@ ASSEMBLY
 
 MPU 6050: 
 .
-MPU-6050 Pin  Arduino Pin (Connected in)
+|MPU-6050 Pin|  Arduino Pin |(Connected in)|
+|-----|-----|-----|
 VCC           5V
 GND           GND
 SCL           A5
@@ -45,7 +46,8 @@ INT           2
 
 Bluetooth(HC-05):
 
-HC-05 Pin  Arduino Pin(Connected in)
+|HC-05 Pin  |Arduino Pin(Connected in)|
+|---|---|
 VIN        5V
 GND        GND
 TXD        10
@@ -66,7 +68,8 @@ Fig . 3 transmitter part with wirings
 
 2 COMPONENTS USED IN RECEIVER PART
 
-S.No. Component Name            Specification        Quantity(Nos.)
+|S.No.| Component Name |          | Specification       | Quantity(Nos.)|
+|---|---|---|---|
 1.    Motor driver.             L298N                1
 2.    Bluetooth module          HC-05                1
 3.    Two wheel with DC motor.  RC WHEELS            1
