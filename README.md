@@ -19,8 +19,8 @@ Fig. 2 Transmitter circuit of Hand Gesture Bot
 ASSEMBLY 
 1. COMPONENTS USED IN TRANSMITTER PART
 
-|S.No.|| Component Name || Specification ||Quantity(Nos.)|
-|----||----||----||----|       
+|S.No.| Component Name | Specification |Quantity(Nos.)|
+|----|----|----|----|       
 1.      Gyroscope sensor   MPU6050          1
 2.      Arduino            UNO              1
 3.      Battery            9V               1
