@@ -1,6 +1,7 @@
 # hand_gesture_controllred_bot
 
 CIRCUIT CONFIGURATIONS
+
 1 RECEIVER CIRCUIT OF HAND GESTURE BOT
 
 ![image](https://user-images.githubusercontent.com/53963293/127822078-a2b3985b-efb2-40de-ac6c-357618e5241a.png)
