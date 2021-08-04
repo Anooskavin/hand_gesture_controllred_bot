@@ -112,7 +112,7 @@ TESTING
 
 
 
-MOVING ACCELERATION:
+ MOVING ACCELERATION:
 ![image](https://user-images.githubusercontent.com/53963293/127822324-58da3428-25bd-437a-8aa9-8b3d7ce389c1.png)
 
 X - x axis ; Y - y axis
